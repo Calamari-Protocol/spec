@@ -14,3 +14,7 @@ booking grid, no context-switch, no endless back-and-forth.
   and self-hosted stacks.  
 * **Privacy-safe** – only salted busy-hashes leave the calendar boundary.  
 * **Time-centric KPI** – optimises *hours protected* vs. meetings booked.
+
+### Full White Paper
+Read the full specification and rationale in
+[docs/white-paper.md](docs/white-paper.md).
